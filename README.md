@@ -1,2 +1,2 @@
 # winesociety
-Demo
+Demo application
